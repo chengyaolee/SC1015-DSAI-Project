@@ -6,7 +6,7 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 - Is it possible to create the most successful movie?
 - How can we determine the components to create the most successful movie?
 
-### Members (DSF3)
+### Members (B135 - Team 2)
 1. Lee Cheng Yao
 2. Yau Jun Hao
 3. Zane Yee Sun
