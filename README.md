@@ -60,6 +60,8 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 
 #### Building Models
 - We will evaluate the models on RMSE and MAPE(%)
+
+
 *1. Multiple Linear Regressor*
 
     a. RMSE: 1.51
