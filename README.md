@@ -119,7 +119,7 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 - Base models: 'Gradient Boosting', 'Random Forest', 'XGBoost'.
 - Final estimator: 'Light GBM'.
 
-Stacking Regressor:
+*Stacking Regressor*
     a. RMSE: 1.327
     b. MAPE(%): 6.338
 
