@@ -120,6 +120,7 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 - Final estimator: 'Light GBM'.
 
 *Stacking Regressor*
+
     a. RMSE: 1.327
     b. MAPE(%): 6.338
 
@@ -128,12 +129,15 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 - Feeding the 3 preserved sample cases from before into the Stacking Regressor
 
 *1. Star Wars: Episode V - The Empire Strikes Back*
+
     - 7.52% error
 
 *2. The Hunter*
+
     - 7.50% error
     
 *3. Videodrome*
+
     - 10.2% error
 
 ### Conclusion
