@@ -29,30 +29,38 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 
 ### Notebook Details
 #### Data Preparation and Cleaning
+
    a. Removing null values:
+   
       - numeric columns are replaced with respective median values
+      
       - categorical columns:
          1. 'rating' null value replaced with "Not Rated"
          2. 'company' and 'released' have less than 2% of rows with missing values, they will be removed from dataset
 
    b. Reserved 3 test samples for visualisation of prediction models (Final Testing)
+   
       - "Star Wars: Episode V - The Empire Strikes Back"
       - "The Hunter"
       - "Videodrome"
 
 
 #### Exploratory Data Analysis
+
    a. Uni-Variate: Used box plots, word map, lollipop chart, bar chart, tree map.
 
    b. Bi-Variate: Used pair-plots, strip plots, correlation plot, scatter plot.
 
 
 #### Feature Engineering
+
    a. Skewness correction using Log transform for non-negative, right-skewed values
 
    b. Removal of insignificant columns: 
+   
       - 'released' is very similar to 'country'
       - 'year' uncontrollable variable since we cannot traverse time
+      
       these columns do not help with predictions and are dropped to prevent inaccuracies
       
    c. Enconding of categorical variables using Ordinal Encoder
