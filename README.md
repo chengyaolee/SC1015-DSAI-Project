@@ -149,6 +149,7 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 
     - 10.2% error
 
+
 ### Conclusion
 
 *Machine Learning Comparisons*
@@ -159,6 +160,7 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 - Revenue will be influenced by seasonal human preferences, marketing and advertising campaigns. 
 - Actions for movie producers: Producers must study and understand their target demographic well should they wish to create a successful, high-earning movie 
 
+
 ### What we have learnt from this project?
 - Ordinal Enconding 
 - Random Forest
@@ -166,6 +168,14 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 - XGBoost
 - Light GBM
 - Stacking Regressor
+
+
+### Contributions
+- All 3 members contributed to the notebook code equally
+- Cheng Yao took charge of video editting
+- Jun Hao focused on presentation slides
+- Zane formulated the script 
+
 
 ### References
 1. sklearn.preprocessing.OrdinalEncoder — scikit-learn 1.2.2 documentation (https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html)
