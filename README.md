@@ -33,7 +33,6 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
    a. Removing null values:
    
       - numeric columns are replaced with respective median values
-      
       - categorical columns:
          1. 'rating' null value replaced with "Not Rated"
          2. 'company' and 'released' have less than 2% of rows with missing values, they will be removed from dataset
